@@ -1,0 +1,44 @@
+.solid {
+    width: 240px;
+    height: 245px;
+    border-style: solid; color : rgb(255, 255, 255)
+     
+}
+.title {
+    font-family: 'Raleway', sans-serif;
+}
+.subtitle {
+    letter-spacing: 2px;
+}
+
+
+.text-about {
+    text-align: justify;
+    text-indent: 50px;
+}
+.jumbotron {
+ 
+    background-color: #bcdfe5;
+    padding-top: 5rem;
+}
+
+#projects {
+    background-color: #bcdfe5;
+}
+.card-header {
+    font-family: 'Raleway', sans-serif; 
+}
+
+.pictproject {
+    width: 450px;
+    height: 330px;
+}
+.pictproject2 {
+    width: 450px;
+    height: 400px;
+}
+.footerbg {
+    background-color: #bcdfe5;
+    padding-bottom: 2rem;
+}
+    
