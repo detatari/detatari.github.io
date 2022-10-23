@@ -37,8 +37,23 @@
     width: 450px;
     height: 400px;
 }
+
+
+.carouselimg {
+    height: 400px;
+    object-fit: cover;
+    margin: 0 auto;
+    image-resolution: inherit;
+    width: 450px;
+}
+
 .footerbg {
     background-color: #bcdfe5;
-    padding-bottom: 2rem;
+   display: block;
 }
+    
+
+
+  
+
     
